@@ -16,3 +16,5 @@ public class Lab07 {
         System.out.println("Set size after removal: " + mySet.size());
     }
 }
+
+// Reference : https://chat.openai.com/
